@@ -16,7 +16,7 @@ Explaining the arguments from top to bottom:
 
 1. main.py will run the process youtube-dl.exe for the basic process of downloading urls but with some arguments this program will do more then that.
 2. All downloaded videos from found list will be added to the archive 'downloaded.txt' so those won't be downloaded twice.
-3. 
+3. Ignores errors videos might give (Skip unavailable/copyrighted/deleted videos)
 4. Add information about the video (channelname, uploaddate, title, duration, etc)
 5. Find channels/lists to download from 'channel_list.txt'
 
