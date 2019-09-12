@@ -5,7 +5,7 @@ This simple program made in python downloads videos from a custom playlist or ch
 For this program to work you will need the following:
 
 - A folder to place the nessecary files in, here will also be the videos be downloaded. 
-- 2 .txt files named 'channel_list' and 'downloaded.txt'
+- 2 .txt files named 'channel_list' and 'downloaded'
 - youtube-dl.exe which can be downloaded from [here](https://ytdl-org.github.io/youtube-dl/download.html)
 - ffmpeg.exe which can be downloaded from [here](http://ffmpeg.org/download.html?aemtn=tg-on)
 - main.py found in the repo
